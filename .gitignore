@@ -1,0 +1,8 @@
+__pycache__/
+.poc-stress-test/
+
+# Local verification may contain account-specific metadata.
+/VERIFIED.md
+/live-*-proof.json
+/dist/
+*.pyc
